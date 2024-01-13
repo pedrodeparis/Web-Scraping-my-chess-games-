@@ -1,4 +1,8 @@
 
+Vídeo em inglês explicando o projeto: https://www.youtube.com/watch?v=EP1w-1g1v7E 
+
+
+
 Projeto de Análise de Dados utilizando API do chess.com, biblioteca request, json, pandas, numpy.
 
 Esse foi sem dúvida um dos projetos mais difíceis que fiz, mas foi muito satisfatório. 
