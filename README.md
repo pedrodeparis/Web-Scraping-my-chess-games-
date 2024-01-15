@@ -1,5 +1,15 @@
 
 
+Youtube video about the project: https://www.youtube.com/watch?v=EP1w-1g1v7E 
+
+
+Power BI Dashboard: 
+
+![Texto alternativo](https://i.imgur.com/hymwYMm.gif)
+
+Descrição do projeto abaixo ---->
+-------------------
+
 Projeto de Análise de Dados utilizando API do chess.com, biblioteca request, json, pandas, numpy.
 
 Esse foi sem dúvida um dos projetos mais difíceis que fiz, mas foi muito satisfatório. 
