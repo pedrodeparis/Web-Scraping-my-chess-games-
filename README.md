@@ -7,8 +7,12 @@ Power BI Dashboard:
 
 ![Texto alternativo](https://i.imgur.com/hymwYMm.gif)
 
-Descrição do projeto abaixo ---->
+Descrição do projeto abaixo
 -------------------
+
+
+
+
 
 Projeto de Análise de Dados utilizando API do chess.com, biblioteca request, json, pandas, numpy.
 
@@ -33,11 +37,5 @@ Aqui enfrentei novos desafios, como, por exemplo, agrupar as aberturas, tendo em
 Posteriormente, com algumas bibliotecas de visualizações, pude chegar à algumas conclusões, identificar certos padrões e repensar no meu repertório de aberturas. 
 
 Vocês encontram todo código aqui. 
-
-Vídeo em inglês explicando o projeto: https://www.youtube.com/watch?v=EP1w-1g1v7E 
-Dashboard criado em PBI: 
-
-![Texto alternativo](https://i.imgur.com/hymwYMm.gif)
-
 
 
