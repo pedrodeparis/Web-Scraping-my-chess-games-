@@ -36,7 +36,7 @@ Novos desafios foram surgindo, como, por exemplo, agrupar as aberturas, tendo em
 
 Mais além, transformar as terminações das partidas em resultados binários, para entender se foi vitória, derrota ou empate, dentre outros tratamentos que podem ser vistos no código completo. 
 
-Posteriormente, com algumas bibliotecas de visualizações, pude chegar à algumas conclusões. Entretando, para melhor organizar as ideias, assim que terminada a etapa de ETL, exportei os dados em formato csv e utilizei o Power Bi para melhor visualização. 
+Posteriormente, com algumas bibliotecas de visualizações, pude chegar à algumas conclusões. Entretanto, para melhor organizar as ideias, assim que terminada a etapa de ETL, exportei os dados em formato csv e utilizei o Power Bi para melhor visualização. 
 
 Espero que gostem! 
 
