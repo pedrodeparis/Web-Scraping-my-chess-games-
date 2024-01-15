@@ -1,6 +1,6 @@
 
 
-Youtube video about the project: https://www.youtube.com/watch?v=EP1w-1g1v7E 
+Youtube video: https://www.youtube.com/watch?v=EP1w-1g1v7E 
 
 
 Power BI Dashboard: 
