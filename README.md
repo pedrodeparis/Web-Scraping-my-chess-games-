@@ -27,4 +27,6 @@ Vocês encontram todo código aqui.
 Vídeo em inglês explicando o projeto: https://www.youtube.com/watch?v=EP1w-1g1v7E 
 Dashboard criado em PBI: 
 
-![Texto alternativo](https://i.imgur.com/0Bg1XoA.gif)
+![Texto alternativo](https://imgur.com/a/sL9uWZ8.gif)
+
+
